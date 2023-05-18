@@ -10,7 +10,7 @@ This is a classification problem. The dataset combined with 20 classes of news, 
 
 Then in part 2, I will try different transfer learning methods combine with the stage 1 models. Not all the methods are fitful for this problem, thus I will compare the results and pick the most fitful one. This transfer learning part is also useful in some cases. For example, we have lots of machine learning news with a few of deep neuron network news since it is a new topic these years. The information gained from machine learning news can help us build a better model for the deep neuron network news by transfer learning strategy.  
 
-click [here]() to view the report.
+click [here](https://github.com/Jingxiang-Zhang/20NewsTextClassification/blob/main/Project_Report.pdf) to view the report.
 
 
 
